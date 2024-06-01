@@ -1,0 +1,180 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJuwR4Ms6YKoQRG_i2aOA3JYY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJObBwss-YKoQRUUrRp3K49oY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 22.1434608,
+               "lng" : -101.0125013
+            },
+            "southwest" : {
+               "lat" : 22.1401911,
+               "lng" : -101.0207241
+            }
+         },
+         "copyrights" : "Map data ©2018 Google, INEGI",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.9 km",
+                  "value" : 1930
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 187
+               },
+               "end_address" : "Av. Salvador Nava 3617, Universitaria, 78290 San Luis, S.L.P., Mexico",
+               "end_location" : {
+                  "lat" : 22.1412107,
+                  "lng" : -101.0125013
+               },
+               "start_address" : "Doctor Salvador Nava Martínez 3801, Universitaria, 78290 San Luis, S.L.P., Mexico",
+               "start_location" : {
+                  "lat" : 22.141749,
+                  "lng" : -101.0136715
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 467
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 66
+                     },
+                     "end_location" : {
+                        "lat" : 22.1433942,
+                        "lng" : -101.0175319
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eAv. Dr. Salvador Nava Martinez\u003c/b\u003e toward \u003cb\u003eAv Niño Artillero\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "}pcfClfpgRAJGb@EV[hBoAlHYdBOv@Kf@MVKVKJA@QJIDQDKBU@M@O?"
+                     },
+                     "start_location" : {
+                        "lat" : 22.141749,
+                        "lng" : -101.0136715
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 424
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 52
+                     },
+                     "end_location" : {
+                        "lat" : 22.1407671,
+                        "lng" : -101.0201939
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eAv. Dr. Manuel Nava\u003c/b\u003e",
+                     "maneuver" : "turn-sharp-left",
+                     "polyline" : {
+                        "points" : "e{cfCp~pgRGJCHAH?H@J|FrCXNZT@@`@b@x@hAf@p@n@|@RVDHR`@"
+                     },
+                     "start_location" : {
+                        "lat" : 22.1433942,
+                        "lng" : -101.0175319
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 100
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 22.1401911,
+                        "lng" : -101.0205941
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eCord. de los Alpes\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "yjcfCdoqgRD@D@DD@@h@jA@?BFDD@@@?B@@?D?@?D?FC@ABA@A?A@C?C?E"
+                     },
+                     "start_location" : {
+                        "lat" : 22.1407671,
+                        "lng" : -101.0201939
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "94 m",
+                        "value" : 94
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 9
+                     },
+                     "end_location" : {
+                        "lat" : 22.1406603,
+                        "lng" : -101.0198339
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eCord. de los Alpes\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "egcfCtqqgRAAIQiAuBGM"
+                     },
+                     "start_location" : {
+                        "lat" : 22.1401911,
+                        "lng" : -101.0205941
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.8 km",
+                        "value" : 845
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 46
+                     },
+                     "end_location" : {
+                        "lat" : 22.1412107,
+                        "lng" : -101.0125013
+                     },
+                     "html_instructions" : "Take the ramp on the \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eDoctor Salvador Nava Martínez\u003c/b\u003e/\u003cb\u003eLagos de Moreno - San Luis Potosí\u003c/b\u003e/\u003cb\u003eMéxico 80 E\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "cjcfC|lqgRc@o@[g@GGOKm@_AOQ[_@o@k@YW[]Yc@M[KYEWEWAQA]@a@Fg@F[|@yFlAwGDYBILw@D[Fa@BQ@G\\sBD_@"
+                     },
+                     "start_location" : {
+                        "lat" : 22.1406603,
+                        "lng" : -101.0198339
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}pcfClfpgRk@pDeCrNYn@ML[P]Hc@BO?GJER@TvGbD\\V`@b@x@hAvAnBX`@R`@D@JFj@lALNL@PEFI?IKSqAcC_AwAWS}@qAkAkAu@u@g@_AQq@Gi@?_ANcA|@yFlAwGHc@RsAj@oDD_@"
+         },
+         "summary" : "Doctor Salvador Nava Martínez/Lagos de Moreno - San Luis Potosí/México 80 E",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

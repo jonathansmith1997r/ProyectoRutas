@@ -1,0 +1,157 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJLff5eM2YKoQRO5fOden2AZw",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJuwR4Ms6YKoQRG_i2aOA3JYY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 22.1476605,
+               "lng" : -101.0119909
+            },
+            "southwest" : {
+               "lat" : 22.1415038,
+               "lng" : -101.0142388
+            }
+         },
+         "copyrights" : "Map data ©2018 Google, INEGI",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.0 km",
+                  "value" : 1039
+               },
+               "duration" : {
+                  "text" : "4 mins",
+                  "value" : 214
+               },
+               "end_address" : "Doctor Salvador Nava Martínez 3801, Universitaria, 78290 San Luis, S.L.P., Mexico",
+               "end_location" : {
+                  "lat" : 22.141749,
+                  "lng" : -101.0136715
+               },
+               "start_address" : "Avenida Niño Artillero 141A, Himno, San Luis, S.L.P., Mexico",
+               "start_location" : {
+                  "lat" : 22.1476605,
+                  "lng" : -101.0142388
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 347
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 22.1445461,
+                        "lng" : -101.0139698
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eAv Niño Artillero\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{udfC~ipgRpGYFAR?dAExFS"
+                     },
+                     "start_location" : {
+                        "lat" : 22.1476605,
+                        "lng" : -101.0142388
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 175
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 53
+                     },
+                     "end_location" : {
+                        "lat" : 22.1445349,
+                        "lng" : -101.0123663
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eFray A. de La Veracruz\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "mbdfChhpgRPAAQAKAKCYCyF"
+                     },
+                     "start_location" : {
+                        "lat" : 22.1445461,
+                        "lng" : -101.0139698
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 342
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 64
+                     },
+                     "end_location" : {
+                        "lat" : 22.1415038,
+                        "lng" : -101.0119909
+                     },
+                     "html_instructions" : "At the roundabout, take the \u003cb\u003e1st\u003c/b\u003e exit onto \u003cb\u003eFray José de Arlegui\u003c/b\u003e",
+                     "maneuver" : "roundabout-right",
+                     "polyline" : {
+                        "points" : "ibdfCh~ogR@?@A@?@A@?@A?A@A@??A@ClAIlAGvAGpAGpAGhBK\\Aj@C"
+                     },
+                     "start_location" : {
+                        "lat" : 22.1445349,
+                        "lng" : -101.0123663
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 175
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 22.141749,
+                        "lng" : -101.0136715
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eAv. Dr. Salvador Nava Martinez\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "kocfC|{ogRE|@Cp@YhC?DCRGp@AH"
+                     },
+                     "start_location" : {
+                        "lat" : 22.1415038,
+                        "lng" : -101.0119909
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{udfC~ipgRrJa@jGUC]Ee@AyFDCDE@AnAMhI_@fCMj@CE|@Cp@YhCCXIz@"
+         },
+         "summary" : "Av Niño Artillero and Fray José de Arlegui",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

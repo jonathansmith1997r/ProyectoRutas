@@ -1,0 +1,85 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJObBwss-YKoQRUUrRp3K49oY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJPQydpnSiKoQRLJaWrw58OMY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 22.1412107,
+               "lng" : -100.9754277
+            },
+            "southwest" : {
+               "lat" : 22.1282962,
+               "lng" : -101.0125013
+            }
+         },
+         "copyrights" : "Map data ©2018 Google, INEGI",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "4.1 km",
+                  "value" : 4104
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 201
+               },
+               "end_address" : "Av. Doctro Salvador Nava Martinez 2007A, Gral I. Martinez, 78360 San Luis, S.L.P., Mexico",
+               "end_location" : {
+                  "lat" : 22.1282962,
+                  "lng" : -100.9754277
+               },
+               "start_address" : "Av. Salvador Nava 3617, Universitaria, 78290 San Luis, S.L.P., Mexico",
+               "start_location" : {
+                  "lat" : 22.1412107,
+                  "lng" : -101.0125013
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "4.1 km",
+                        "value" : 4104
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 201
+                     },
+                     "end_location" : {
+                        "lat" : 22.1282962,
+                        "lng" : -100.9754277
+                     },
+                     "html_instructions" : "Head \u003cb\u003eeast\u003c/b\u003e on \u003cb\u003eDoctor Salvador Nava Martínez\u003c/b\u003e/\u003cb\u003eLagos de Moreno - San Luis Potosí\u003c/b\u003e/\u003cb\u003eMéxico 80 E\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "qmcfCb_pgRTeCTaDZ}C\\_EHy@NwAtAePD]Dc@@K?CFk@?C@?De@LcALo@No@Lc@JY@GPk@dAkDLa@p@{Bd@{A^gAb@yAtAeEb@kAj@wBt@aCf@}Az@mCl@oBr@eCHYJ[@CTu@N_@`DaKTy@V_Av@aCd@{Ar@{BBMDMBE@C?ABK@Cx@gCr@_CDM@AHYr@}Bt@{BHYTu@r@{Bp@yBFO?CBGLa@@AJ]BKBGJ[`BoFNg@pBiGDIBKRq@lAwDf@_BBIn@oBPg@dAkDl@mBd@yA`@oANi@J]H_@FYDUJu@DYD_@BYBk@Bc@@g@?c@"
+                     },
+                     "start_location" : {
+                        "lat" : 22.1412107,
+                        "lng" : -101.0125013
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "qmcfCb_pgRj@gHx@}ItBuUd@mE\\_BLc@^mAjDeLbAaDxBqG`ByFbBkFvBkHhE{Ml@yB|A}E`A}CFUrFeQvCkJ^mAhFkPxGcTdCaIb@mBZiCFoA@kA"
+         },
+         "summary" : "Doctor Salvador Nava Martínez/Lagos de Moreno - San Luis Potosí/México 80 E",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}
